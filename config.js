@@ -11,23 +11,19 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['12537507270', '𝑯𝑨𝑹𝑫𝑻𝑬𝑴𝑷𝑶 𝑩𝑶𝑻-𝑴𝑫 🌻🐈', true], 
+['12342722338', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
 ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
-['593968585383'], 
-['59894808483'],
-['5217441745001'],
-['5492266613038']]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 global.mods = [] 
 global.prems = []
    
   
 /*⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-Agrega el Idioma que quieres que tenga GataBotLite-MD
+Agrega el Idioma que quieres que tenga HardtempoBot-MD
 Add the language you want GataBotLite-MD to have
   es = Español         id = Bahasa Indonesia
   en = English         pt = Português 
@@ -35,7 +31,7 @@ Add the language you want GataBotLite-MD to have
 */
 global.lenguajeGB = es  //<--- [es, en, ar, id, pt] Escribir el código de Idioma
  
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 global.openai_key = 'sk-0'
@@ -95,46 +91,46 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🔥⃟➪𝐇𝐀𝐑𝐃𝐓𝐄𝐌𝐏𝐎 - 𝐁𝐎𝐓᜴ᜲ⃝⃨⿻ܓ'
+global.author = 'ʜᴀⷡʀͦᴅͭᴛᴇͦᴍᷫᴘͥᴏͨ-ͥᴍͣᴅᷝ'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['12537507270', 'HARDTEMPO BOT-MD 💻', 1], 
+['12342722338', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['527714758124', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.desc = '' //HARDTEMPO BOT
+global.desc2 = '' //HARDTEMPO BOT - BOT DE MUSICA ELECTRONICA
+global.country = '' //EU
 
 global.vs = '1.0.2'
 global.vsJB = '3.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
+global.gt = '𝑯𝑨𝑹𝑫𝑻𝑬𝑴𝑷𝑶 𝑩𝑶𝑻-𝑴𝑫'
+global.yt = ''
+global.yt2 =''
+global.ig = ''
 global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.fb = ''
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 5 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 8 COL
-global.paypal = 'https://paypal.me/OficialGD'
+global.nna2 = '' //Help
+global.nn = ''
+global.nnn = ''
+global.nnnt = ''
+global.nnntt = ''
+global.nnnttt = ''
+global.nnnttt2 = ''
+global.nnnttt3 = ''
+global.nnnttt4 = ''
+global.paypal = ''
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
@@ -145,7 +141,7 @@ global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━
 
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
@@ -164,7 +160,7 @@ global.imagen11 = fs.readFileSync('./media/menus/img10.jpg')
 global.imagen12 = fs.readFileSync('./media/menus/img11.jpg')
 global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━
 
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
@@ -205,7 +201,7 @@ global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt2, nnnttt3, nnnttt4
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18, img19, img20, img21]
 global.gataImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━✦⛓️🍒⛓️✦━━━━━━━━━━━━━━
 
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
 global.htka = '*☪ ••••̩̩͙⊰•⭑*'
